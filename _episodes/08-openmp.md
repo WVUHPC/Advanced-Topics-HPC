@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Parallel Computing: OpenMP"
 teaching: 30
 exercises: 30
 questions:

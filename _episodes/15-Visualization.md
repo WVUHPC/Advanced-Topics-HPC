@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "VISUALIZATION"
 teaching: 30
 exercises: 30
 questions:

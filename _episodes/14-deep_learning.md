@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Artificial Intelligence: Machine Learning"
 teaching: 30
 exercises: 30
 questions:

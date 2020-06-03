@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Parallel Computing: CUDA"
 teaching: 30
 exercises: 30
 questions:

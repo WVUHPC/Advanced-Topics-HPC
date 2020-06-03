@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Visualization: Python (Matplotlib and Seaborn)"
 teaching: 30
 exercises: 30
 questions:

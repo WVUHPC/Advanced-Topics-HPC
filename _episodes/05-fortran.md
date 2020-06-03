@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Scientific Programming: Fortran"
 teaching: 30
 exercises: 30
 questions:

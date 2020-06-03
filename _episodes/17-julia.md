@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Visualization: Julia (Interactive Plotting)"
 teaching: 30
 exercises: 30
 questions:

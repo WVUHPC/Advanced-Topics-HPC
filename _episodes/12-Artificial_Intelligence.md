@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "ARTIFICIAL INTELLIGENCE"
 teaching: 30
 exercises: 30
 questions:
